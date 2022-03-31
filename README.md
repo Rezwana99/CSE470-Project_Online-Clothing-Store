@@ -1,1 +1,1 @@
-# CSE470-Project_Online-Clothing-Store
+# Project_Online-Clothing-Store
